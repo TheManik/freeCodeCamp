@@ -238,7 +238,7 @@ Felicidades 🎉! Tu ahora tienes una copia completa de la plataforma de aprendi
 
 ## Realizar cambios a su copia local de freeCodeCamp
 
-Siguiente, puedes haceer cambios a los archivos, y confirmar los cambios.
+Siguiente, puedes hacer cambios a los archivos, y confirmar los cambios.
 
 Sigue estos pasos:
 
@@ -443,7 +443,7 @@ Sigue estos pasos:
 
 ## Para obtener ayuda
 
-SI estás atascado y necesitas ayuda, haznoslo saber preguntando en ['Contributors' category on our forum](https://www.freecodecamp.org/forum/c/contributors) o en [Contributors chat room](https://gitter.im/FreeCodeCamp/Contributors) en Gitter.
+Si estás atorado y necesitas ayuda, dejanos saber preguntando en ['Contributors' category on our forum](https://www.freecodecamp.org/forum/c/contributors) o en [Contributors chat room](https://gitter.im/FreeCodeCamp/Contributors) en Gitter.
 
 Puede haber un error en la consola de tu navegador o en el Terminal / Linea de Comandos que te ayudará a identificar el problema.
 
